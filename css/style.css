@@ -1,0 +1,54 @@
+/* citing the first activity of week 2, to support me with getting started with CSS*/
+body {
+    font-family: 'Helvetica';
+    margin: 0;
+}
+
+ header {
+    padding: 60px;
+    text-align: center;
+    background: #741e1e;
+    color: #fff;
+  }
+
+  header {
+    padding: 30px;
+    text-align: center;
+    background: #741e1e;
+    color: #fff;
+}
+
+.headshot {
+    border: width 1px;
+    padding: 10px;
+    align: center;
+    width: 25%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.headshot img {
+width: 100%
+}
+
+nav {
+    display:flex;
+    background-color: rgb(38, 47, 38);
+}
+
+nav a {
+    color: #ffffff;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+ .projects {
+    margin-top:5vh;
+    width:100vw;
+    text-align: center;
+    background: #e8e8e8;
+    padding: 2rem 0 rem;
+ }
